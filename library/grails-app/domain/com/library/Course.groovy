@@ -12,7 +12,7 @@ String department
 
 String description
 
-String toString() {title}
+String toString() {"$title,$code"}
 
     static constraints = {
 

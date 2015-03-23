@@ -12,6 +12,8 @@ String department
 
 String description
 
+String toString() {title,code}
+
     static constraints = {
 
 title()

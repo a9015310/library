@@ -21,13 +21,11 @@ when:"A Course has title, code and department"
 
 def course=new Course(title:'Cloud Computing',
 
-code:'ABC101',
-
 )
 
 then:"the to String method will merge them."
 
-course.toString()=='Cloud Computing,ABC101'
+course.toString()=='Cloud Computing'
 
     }
 }

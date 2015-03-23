@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="a9015310" id="0" name="CourseSpec" package="com.library" tests="1" time="5.568" timestamp="2015-03-16T12:43:08">
+      <properties />
+
+      <testcase classname="com.library.CourseSpec" name="test toString" time="5.445" />
+
+      <system-out><![CDATA[--Output from test toString--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test toString--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

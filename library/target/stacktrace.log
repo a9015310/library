@@ -1,0 +1,312 @@
+2015-03-16 12:22:27,747 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()== 'Web Systems Design, WSD101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (48% similarity)
+|      |         Web Systems Design(-------------------)
+|      |         Web Systems Design(, WSD101, Computing)
+|      Web Systems Design
+Web Systems Design
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:22:27,767 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()== 'Web Systems Design, WSD101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (48% similarity)
+|      |         Web Systems Design(-------------------)
+|      |         Web Systems Design(, WSD101, Computing)
+|      Web Systems Design
+Web Systems Design
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:22:27,769 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()== 'Web Systems Design, WSD101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (48% similarity)
+|      |         Web Systems Design(-------------------)
+|      |         Web Systems Design(, WSD101, Computing)
+|      Web Systems Design
+Web Systems Design
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:22:27,769 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()== 'Web Systems Design, WSD101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (48% similarity)
+|      |         Web Systems Design(-------------------)
+|      |         Web Systems Design(, WSD101, Computing)
+|      Web Systems Design
+Web Systems Design
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:22:27,774 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()== 'Web Systems Design, WSD101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (48% similarity)
+|      |         Web Systems Design(-------------------)
+|      |         Web Systems Design(, WSD101, Computing)
+|      Web Systems Design
+Web Systems Design
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:22:27,775 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()== 'Web Systems Design, WSD101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (48% similarity)
+|      |         Web Systems Design(-------------------)
+|      |         Web Systems Design(, WSD101, Computing)
+|      Web Systems Design
+Web Systems Design
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:28:17,862 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()== 'Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:28:17,891 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()== 'Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:28:17,894 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()== 'Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:28:17,894 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()== 'Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:28:17,927 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()== 'Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:28:17,927 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()== 'Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:31:56,858 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()=='Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:31:56,872 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()=='Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:31:56,875 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:31:56,875 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:31:56,903 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:31:56,903 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Cloud Computing, WSP101, Computing'
+|      |         |
+|      |         false
+|      |         19 differences (44% similarity)
+|      |         Cloud Computing(-------------------)
+|      |         Cloud Computing(, WSP101, Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:38:06,506 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()=='Cloud Computing,WSP101,Computing'
+|      |         |
+|      |         false
+|      |         17 differences (46% similarity)
+|      |         Cloud Computing(-----------------)
+|      |         Cloud Computing(,WSP101,Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:38:06,516 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+course.toString()=='Cloud Computing,WSP101,Computing'
+|      |         |
+|      |         false
+|      |         17 differences (46% similarity)
+|      |         Cloud Computing(-----------------)
+|      |         Cloud Computing(,WSP101,Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:38:06,524 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Cloud Computing,WSP101,Computing'
+|      |         |
+|      |         false
+|      |         17 differences (46% similarity)
+|      |         Cloud Computing(-----------------)
+|      |         Cloud Computing(,WSP101,Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:38:06,524 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Cloud Computing,WSP101,Computing'
+|      |         |
+|      |         false
+|      |         17 differences (46% similarity)
+|      |         Cloud Computing(-----------------)
+|      |         Cloud Computing(,WSP101,Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:38:06,549 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Cloud Computing,WSP101,Computing'
+|      |         |
+|      |         false
+|      |         17 differences (46% similarity)
+|      |         Cloud Computing(-----------------)
+|      |         Cloud Computing(,WSP101,Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
+2015-03-16 12:38:06,549 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+course.toString()=='Cloud Computing,WSP101,Computing'
+|      |         |
+|      |         false
+|      |         17 differences (46% similarity)
+|      |         Cloud Computing(-----------------)
+|      |         Cloud Computing(,WSP101,Computing)
+|      Cloud Computing
+Cloud Computing
+
+	at com.library.CourseSpec.test toString(CourseSpec.groovy:30)
