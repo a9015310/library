@@ -39,7 +39,7 @@
  <p>Mea scaevola corrumpit dissentiunt no. Habeo illum vidisse ea cum. Sea dictas debitis contentiones id, vim ad magna assueverit. His detraxit quaerendum ut, sit in accusata splendide, semper cetero cu sed. Soluta possim principes mel an, mel no malorum tacimates, esse oporteat qualisque quo et.</p>
 <h1></h1>
  <span class="buttons" >
- <g:link controller="student" action="edit">List Book</g:link>
+ <g:link controller="student" action="edit">Add Book</g:link>
  </span>
  </div>
 <h1></h1>
@@ -59,7 +59,7 @@
  <p>Mea scaevola corrumpit dissentiunt no. Habeo illum vidisse ea cum. Sea dictas debitis contentiones id, vim ad magna assueverit. His detraxit quaerendum ut, sit in accusata splendide, semper cetero cu sed. Soluta possim principes mel an, mel no malorum tacimates, esse oporteat qualisque quo et.</p>
 <h1></h1>
  <span class="buttons" >
-  <g:link controller="student" action="edit">List Student</g:link>
+  <g:link controller="student" action="edit">Add Book</g:link>
  </span>
  </div>
 <h1></h1>

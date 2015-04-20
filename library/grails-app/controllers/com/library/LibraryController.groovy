@@ -5,6 +5,8 @@ package com.library
 import static org.springframework.http.HttpStatus.*
 import grails.transaction.Transactional
 
+import grails.converters.*
+
 @Transactional(readOnly = true)
 class LibraryController {
 
@@ -16,7 +18,12 @@ class LibraryController {
     }
 
     def show(Library libraryInstance) {
-        respond libraryInstance
+        if(params.id && book.exists(params.id)){
+ render Book.findById(params.id) as XML
+ }else{
+ render Book.list() as XML
+ }
+
     }
 
     def create() {
@@ -91,6 +98,7 @@ class LibraryController {
             '*'{ render status: NO_CONTENT }
         }
     }
+
 
     protected void notFound() {
         request.withFormat {
